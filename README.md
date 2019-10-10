@@ -1,4 +1,4 @@
-# Lambdulus is lambda calculus online evaluator.
+# Lambdulus is online lambda calculus evaluator.
 
 ## It is heavily interactive and powerful tool for evaluating, learning and exploring lambda expressions.
 
