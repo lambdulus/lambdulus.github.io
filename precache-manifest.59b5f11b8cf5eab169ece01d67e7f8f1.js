@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eaf0d02173ef556635a2b9cf77b62ca0",
+    "revision": "bdedece3213da4cd735a9285cc9435c2",
     "url": "https://lambdulus.github.io/index.html"
   },
   {
-    "revision": "bed2663f66f3a0cb4722",
+    "revision": "49c82d0a38ef701c3adb",
     "url": "https://lambdulus.github.io/static/css/2.96cb0076.chunk.css"
   },
   {
-    "revision": "1caa9a81f586fa9c751f",
+    "revision": "91986ff743ee45100a9e",
     "url": "https://lambdulus.github.io/static/css/main.862b17ff.chunk.css"
   },
   {
-    "revision": "bed2663f66f3a0cb4722",
-    "url": "https://lambdulus.github.io/static/js/2.7deac301.chunk.js"
+    "revision": "49c82d0a38ef701c3adb",
+    "url": "https://lambdulus.github.io/static/js/2.95fbf283.chunk.js"
   },
   {
     "revision": "cd8f8a436c1dbe11f02ea2290810511b",
-    "url": "https://lambdulus.github.io/static/js/2.7deac301.chunk.js.LICENSE.txt"
+    "url": "https://lambdulus.github.io/static/js/2.95fbf283.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1caa9a81f586fa9c751f",
-    "url": "https://lambdulus.github.io/static/js/main.d7acd89f.chunk.js"
+    "revision": "91986ff743ee45100a9e",
+    "url": "https://lambdulus.github.io/static/js/main.73ab43bb.chunk.js"
   },
   {
     "revision": "2019d1384940389f5a7e",
