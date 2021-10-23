@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://lambdulus.github.io/precache-manifest.acfaa9c81d94ed95c018421d49887b12.js"
+  "https://lambdulus.github.io/precache-manifest.59b5f11b8cf5eab169ece01d67e7f8f1.js"
 );
 
 self.addEventListener('message', (event) => {
