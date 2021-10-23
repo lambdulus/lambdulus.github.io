@@ -18,7 +18,7 @@ jobs:
       with:
         # Repository name with owner. For example, actions/checkout
         repository: 'lambdulus/frontend'
-        ref: 'main'
+        ref: 'master'
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
       with:
