@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "https://lambdulus.github.io/static/css/main.862b17ff.chunk.css",
-    "main.js": "https://lambdulus.github.io/static/js/main.e96af1af.chunk.js",
-    "main.js.map": "https://lambdulus.github.io/static/js/main.e96af1af.chunk.js.map",
-    "runtime-main.js": "https://lambdulus.github.io/static/js/runtime-main.62e318b9.js",
-    "runtime-main.js.map": "https://lambdulus.github.io/static/js/runtime-main.62e318b9.js.map",
-    "static/css/2.96cb0076.chunk.css": "https://lambdulus.github.io/static/css/2.96cb0076.chunk.css",
-    "static/js/2.c33ec512.chunk.js": "https://lambdulus.github.io/static/js/2.c33ec512.chunk.js",
-    "static/js/2.c33ec512.chunk.js.map": "https://lambdulus.github.io/static/js/2.c33ec512.chunk.js.map",
+    "main.css": "https://lambdulus.github.io/static/css/main.b5091c2d.chunk.css",
+    "main.js": "https://lambdulus.github.io/static/js/main.eeb66423.chunk.js",
+    "main.js.map": "https://lambdulus.github.io/static/js/main.eeb66423.chunk.js.map",
+    "runtime-main.js": "https://lambdulus.github.io/static/js/runtime-main.5da776c6.js",
+    "runtime-main.js.map": "https://lambdulus.github.io/static/js/runtime-main.5da776c6.js.map",
+    "static/css/2.ab497fcd.chunk.css": "https://lambdulus.github.io/static/css/2.ab497fcd.chunk.css",
+    "static/js/2.fe034824.chunk.js": "https://lambdulus.github.io/static/js/2.fe034824.chunk.js",
+    "static/js/2.fe034824.chunk.js.map": "https://lambdulus.github.io/static/js/2.fe034824.chunk.js.map",
     "index.html": "https://lambdulus.github.io/index.html",
-    "precache-manifest.866f07f3c4f75f8608eeba873469bdf0.js": "https://lambdulus.github.io/precache-manifest.866f07f3c4f75f8608eeba873469bdf0.js",
-    "service-worker.js": "https://lambdulus.github.io/service-worker.js",
-    "static/css/2.96cb0076.chunk.css.map": "https://lambdulus.github.io/static/css/2.96cb0076.chunk.css.map",
-    "static/css/main.862b17ff.chunk.css.map": "https://lambdulus.github.io/static/css/main.862b17ff.chunk.css.map",
-    "static/js/2.c33ec512.chunk.js.LICENSE.txt": "https://lambdulus.github.io/static/js/2.c33ec512.chunk.js.LICENSE.txt",
-    "static/media/codicon.css": "https://lambdulus.github.io/static/media/codicon.888f9cc0.ttf"
+    "static/css/2.ab497fcd.chunk.css.map": "https://lambdulus.github.io/static/css/2.ab497fcd.chunk.css.map",
+    "static/css/main.b5091c2d.chunk.css.map": "https://lambdulus.github.io/static/css/main.b5091c2d.chunk.css.map",
+    "static/js/2.fe034824.chunk.js.LICENSE.txt": "https://lambdulus.github.io/static/js/2.fe034824.chunk.js.LICENSE.txt",
+    "static/media/codicon.css": "https://lambdulus.github.io/static/media/codicon.68664da4.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.62e318b9.js",
-    "static/css/2.96cb0076.chunk.css",
-    "static/js/2.c33ec512.chunk.js",
-    "static/css/main.862b17ff.chunk.css",
-    "static/js/main.e96af1af.chunk.js"
+    "static/js/runtime-main.5da776c6.js",
+    "static/css/2.ab497fcd.chunk.css",
+    "static/js/2.fe034824.chunk.js",
+    "static/css/main.b5091c2d.chunk.css",
+    "static/js/main.eeb66423.chunk.js"
   ]
 }
