@@ -36,7 +36,8 @@ jobs:
       with:
         path: 'web'
     - run: |
-        rm -rf ./web/*
+        shopt -s extglob
+        rm -rf ./web/!(README.md)
         mv ./build/* ./web/
     - run: |
         cd ./web
